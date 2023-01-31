@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "test": "vitest",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
