@@ -1,3 +1,4 @@
+import { describe, expect, it } from "@jest/globals";
 import http from "node:http";
 
 describe("Probando app", () => {
