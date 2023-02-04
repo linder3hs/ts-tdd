@@ -3,6 +3,6 @@ import { sumar } from "../src/utils/helper";
 
 describe("primer test", () => {
   it("sumando numeros", () => {
-    expect(sumar(1, 2)).toBe(4);
+    expect(sumar(2, 2)).toBe(4);
   });
 });
